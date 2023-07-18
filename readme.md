@@ -1,4 +1,4 @@
-kubi's chat-glm FunScript
+kubi's chat-glm script
 
 Welcome to Kubi's chat-glm script repository! Engage in lively conversations with an AI assistant powered by chat-glm. This script combines the Rich library for enhanced console output, ensuring an enjoyable experience.
 
